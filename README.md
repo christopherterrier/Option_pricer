@@ -110,9 +110,9 @@ Black-Scholes has no closed-form solution for American options (except European 
 
 ## Output preview
 
-![Input](Output_screenshots/Input.png)
-![Binomial Tree](Output_screenshots/Binomial_tree.png)
-![Output - price](Output_screenshots/Output_price.png)
+![Input](Option_Pricing_Binomial/Output_screenshots/Input.png)
+![Binomial Tree](Option_Pricing_Binomial/Output_screenshots/Binomial_tree.png)
+![Output - price](Option_Pricing_Binomial/Output_screenshots/Output_price.png)
 
 
 
