@@ -105,3 +105,15 @@ Black-Scholes has no closed-form solution for American options (except European 
 - Microsoft Excel (.xlsm)
 - VBA (Visual Basic for Applications)
 - No external dependencies
+
+---
+
+## Output preview
+
+![Input](Output_screenshots/Input.png)
+![Binomial Tree](Output_screenshots/Binomial_tree.png)
+![Output - price](Output_screenshots/Output_price.png)
+
+
+
+
